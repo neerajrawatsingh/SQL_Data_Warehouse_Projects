@@ -23,28 +23,5 @@ Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-For more details, refer to 02_docs/requirements.md.
-
-🎓 Learn with me
-Watch on YouTube, or take the guided version with a certificate on my Academy or Udemy.
-
-Course	YouTube	My Academy	Udemy
-SQL	Full course · Playlist	Full Package · Handbook	SQL Bootcamp · SQL for Analytics
-Python	Full course · Playlist	Full Package · Handbook	Python Bootcamp
-Tableau	Full course · Playlist	Full Package	Tableau Course · Chart Masterclass
-Power BI	Full course		
-Databricks	Full course		
-Materials on my website: SQL · Python · Tableau · Power BI
-
-The SQL projects
-Project	YouTube	Materials	Udemy
-Data Warehouse	Watch	this repository	Building a Modern Data Warehouse
-Exploratory Data Analysis	Watch	Repository	SQL for Exploratory Data Analysis
-Advanced Data Analytics	Watch	same repository	
-More on YouTube: Data projects · Data careers
-
-🤝 Connect
-LinkedIn Discord Instagram TikTok Newsletter Notion Roadmaps
-
 🛡️ License
 MIT. Use it, change it, share it, with attribution.
